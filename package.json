@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://hub.fastgit.org/Cenergy/toolso.git"
+    "url": "https://github.com/Cenergy/toolso.git"
   },
   "files": [
     "dist"
