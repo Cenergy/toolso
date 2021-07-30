@@ -1,0 +1,2 @@
+function n(n,e){for(var o=0;o<e.length;o++){var t=e[o];t.enumerable=t.enumerable||!1,t.configurable=!0,"value"in t&&(t.writable=!0),Object.defineProperty(n,t.key,t)}}var e=new(function(){function e(){!function(n,e){if(!(n instanceof e))throw new TypeError("Cannot call a class as a function")}(this,e),this.num=0}var o,t,a;return o=e,(t=[{key:"log",value:function(n){console.log("Toolso - Toolso - log - str",n)}},{key:"add",value:function(n){this.num+=n}}])&&n(o.prototype,t),a&&n(o,a),e}());export{e as default};
+//# sourceMappingURL=index.js.map
